@@ -395,7 +395,7 @@ header .open-nav:hover { background-color: rgba(0, 0, 0, 0.1); }
 
 .content h3::before { content: ""; margin: 60px 0; }
 
-.content, .page-header { max-width: 800px; padding: 0 25px 20px; margin: 20px auto 0 auto; }
+.content, .page-header { max-width: 800px; padding: 0 25px 20px; margin: 0 auto 0 auto; }
 
 .page-header h2, .page-header h3 { margin: 1em 0 0 0; line-height: 1.2; letter-spacing: -1px; }
 
@@ -484,5 +484,7 @@ img { max-width: 100%; height: auto; }
 .editor-link .btn:hover { background-color: #f4d525; color: #333; }
 
 .cms-editor-active .editor-link { display: block; }
+
+#busuanzi_container_page_pv { color: #999; font-size: 15px; }
 
 /*# sourceMappingURL=main.css.map */
