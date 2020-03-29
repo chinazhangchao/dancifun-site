@@ -487,4 +487,6 @@ img { max-width: 100%; height: auto; }
 
 #busuanzi_container_page_pv { color: #999; font-size: 15px; }
 
+#fankui { position: fixed; bottom: 8%; right: 1%; z-index: 888; color: #3583d6; }
+
 /*# sourceMappingURL=main.css.map */
